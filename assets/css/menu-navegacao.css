@@ -1,0 +1,7 @@
+.menu__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--branco);
+  padding: 0.5em 0.5em;
+}
