@@ -2,6 +2,11 @@
   --branco: #f9f9f9;
   --cinza-claro: #c3f3ff;
   --verde: green;
+
+  --titulo: "Cinzel";
+  --subtitulo: "Satisfy";
+  --texto: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 body {
