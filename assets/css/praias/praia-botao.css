@@ -1,0 +1,8 @@
+.praia__botao {
+  background: var(--azul-mar);
+  border: none;
+  border-radius: 5px;
+  color: var(--branco);
+  padding: 1rem;
+  transition: all 1s ease-in-out;
+}

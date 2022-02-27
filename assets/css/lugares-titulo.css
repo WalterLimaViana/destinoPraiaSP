@@ -1,0 +1,9 @@
+.lugares__tituloPrincipal {
+  margin-top: 5rem;
+}
+
+.lugares__titulo__principal {
+  font-family: var(--subtitulo);
+  font-size: 3.1875rem;
+  text-align: center;
+}
