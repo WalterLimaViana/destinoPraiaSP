@@ -85,3 +85,17 @@
 .demo:hover {
   opacity: 1;
 }
+
+@media screen and (max-width: 375px) {
+  .prev,
+  .next {
+    top: 221.5%;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .prev,
+  .next {
+    top: 240%;
+  }
+}
