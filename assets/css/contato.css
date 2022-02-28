@@ -1,0 +1,17 @@
+.contato {
+  padding: 1.5rem;
+  text-align: center;
+  background: var(--areia);
+}
+
+.contato__titulo {
+  font-family: var(--subtitulo);
+  font-size: 3.18rem;
+}
+
+.contato__descricao {
+  font-size: 1rem;
+  font-family: var(--texto);
+  text-decoration: none;
+  color: var(--preto);
+}
