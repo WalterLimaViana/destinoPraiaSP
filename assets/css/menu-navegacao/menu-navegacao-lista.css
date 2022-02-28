@@ -2,3 +2,10 @@
   display: flex;
   margin-right: 2rem;
 }
+
+@media screen and (max-width: 450px) {
+  .menu__navegacao___lista {
+    flex-direction: column;
+    margin: 2rem;
+  }
+}

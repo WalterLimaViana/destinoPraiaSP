@@ -4,3 +4,8 @@
   justify-content: space-around;
   padding: 2em 2rem 2em;
 }
+@media screen and (max-width: 375px) {
+  .menu__navegacao___opcoes {
+    padding: 1rem 1rem 1rem;
+  }
+}

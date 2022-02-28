@@ -24,3 +24,15 @@
 .menu__navegacao___link--quatro::before {
   content: "📝";
 }
+
+@media screen and (max-width: 450px) {
+  .menu__navegacao___link {
+    margin: 2rem;
+  }
+}
+
+@media screen and (max-width: 790px) {
+  .menu__navegacao___link {
+    margin: 1rem;
+  }
+}
