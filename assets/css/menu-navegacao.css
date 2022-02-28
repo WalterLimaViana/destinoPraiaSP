@@ -1,7 +1,5 @@
-.menu__container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+.menu__navegacao {
+  display: row;
+  justify-content: space-around;
   background: var(--branco);
-  padding: 0.5em 0.5em;
 }

@@ -1,0 +1,26 @@
+.menu__navegacao___link {
+  color: #808080;
+  margin: 3rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.menu__navegacao___link:hover {
+  text-decoration: under;
+  color: #333333;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.menu__navegacao___link--um::before {
+  content: "🏖️";
+}
+.menu__navegacao___link--dois::before {
+  content: "📷";
+}
+.menu__navegacao___link--tres::before {
+  content: "🗺️";
+}
+.menu__navegacao___link--quatro::before {
+  content: "📝";
+}
