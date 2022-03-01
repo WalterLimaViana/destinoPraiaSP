@@ -17,3 +17,14 @@
 .lugares__passeiolista--comida:before {
   content: "🍽️";
 }
+
+.lugares__passeiolista--cachoeira:before {
+  content: "🏞️";
+}
+
+.lugares__passeiolista--mergulho:before {
+  content: "🏊";
+}
+.lugares__passeiolista--vila:before {
+  content: "🕍";
+}
