@@ -9,3 +9,9 @@
 .praia__botao:hover {
   cursor: pointer;
 }
+@media screen and (max-width: 1040px) {
+  .praia__botao {
+    width: 70%;
+    padding: 0.3rem;
+  }
+}

@@ -1,10 +1,20 @@
 .lugares__tituloPrincipal {
   margin-top: 5rem;
+  padding: 4.5rem auto;
 }
 
+.lugares__lista {
+  margin-left: 5rem;
+}
 .lugares__titulo__principal {
   font-family: var(--subtitulo);
-  font-size: 3.1875rem;
+  font-size: 3rem;
   text-align: center;
-  padding: 1.5rem 0;
+  padding: 1.5rem;
+}
+
+@media screen and (max-width: 790px) {
+  .lugares__titulo__principal {
+    font-size: 2rem;
+  }
 }

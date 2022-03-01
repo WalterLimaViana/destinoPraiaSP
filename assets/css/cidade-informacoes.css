@@ -1,0 +1,8 @@
+.cidade__informacoes {
+  margin: 2rem;
+}
+
+.cidade__informacoes___descricao {
+  text-align: justify;
+  font-family: var(--texto);
+}

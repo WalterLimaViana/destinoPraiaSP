@@ -1,11 +1,11 @@
 .logo {
-  width: 10%;
-  height: 10%;
+  width: 13%;
+  height: 13%;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 870px) {
   .logo {
-    width: 16%;
-    height: 16%;
+    width: 17%;
+    height: 17%;
   }
 }

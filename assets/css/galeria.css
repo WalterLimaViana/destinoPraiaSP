@@ -22,11 +22,11 @@
 .next {
   cursor: pointer;
   position: absolute;
-  top: 202%;
+  top: auto;
   width: auto;
   padding: 16px;
   margin-right: 8px;
-  margin-top: -50px;
+  margin-top: -200px;
   color: white;
   font-weight: bold;
   font-size: 20px;
@@ -62,6 +62,7 @@
   background-color: #222;
   padding: 2px 16px;
   color: white;
+  font-family: var(--texto);
 }
 
 .row:after {
@@ -86,16 +87,9 @@
   opacity: 1;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 550px) {
   .prev,
   .next {
-    top: 221.5%;
-  }
-}
-
-@media screen and (max-width: 750px) {
-  .prev,
-  .next {
-    top: 240%;
+    margin-top: -130px;
   }
 }

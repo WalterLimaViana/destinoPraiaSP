@@ -1,0 +1,19 @@
+.lugares__passeio {
+  list-style: none;
+  font-family: var(--texto);
+}
+
+.lugares__passeiolista--praia:before {
+  content: "🏖️";
+}
+.lugares__passeiolista--canal:before {
+  content: "⛵";
+}
+
+.lugares__passeiolista--trilha:before {
+  content: "🥾";
+}
+
+.lugares__passeiolista--comida:before {
+  content: "🍽️";
+}
