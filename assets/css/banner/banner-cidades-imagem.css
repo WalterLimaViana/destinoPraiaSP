@@ -7,6 +7,26 @@
     cover;
 }
 
+.banner__cidades___imagem--ilhabela {
+  background: url("../../img/ilha-bela.jpg") no-repeat center / cover;
+}
+.banner__cidades___imagem--saoSebastiao {
+  background: url("../../img/praia-barra-do-sahy.jpg") no-repeat center / cover;
+}
+.banner__cidades___imagem--ubatuba {
+  background: url("../../img/praia-de-ubatuba.jpg") no-repeat center / cover;
+}
+.banner__cidades___imagem--caraguatatuba {
+  background: url("../../img/praia-de-tabatinga.jpg") no-repeat center / cover;
+}
+.banner__cidades___imagem--guaruja {
+  background: url("../../img/praia-de-pernambuco-e-mar-casado-guaruja.jpg")
+    no-repeat center / cover;
+}
+.banner__cidades___imagem--peruibe {
+  background: url("../../img/barra-da-una.jpg") no-repeat center / cover;
+}
+
 @media screen and (min-width: 0) {
   .banner__cidades___imagem {
     height: calc(100vh - 51px);

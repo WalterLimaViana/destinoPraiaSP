@@ -29,6 +29,9 @@
   .menu__navegacao___link {
     margin: 2rem;
   }
+  .menu__navegacao___link:hover {
+    font-size: 1.1rem;
+  }
 }
 
 @media screen and (max-width: 790px) {
