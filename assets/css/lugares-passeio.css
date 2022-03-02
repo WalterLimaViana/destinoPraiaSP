@@ -28,3 +28,10 @@
 .lugares__passeiolista--vila:before {
   content: "🕍";
 }
+
+.lugares__passeiolista--surf:before {
+  content: "🏄🏻‍♀️";
+}
+.lugares__passeiolista--tamar:before {
+  content: "🐢";
+}
