@@ -35,3 +35,7 @@
 .lugares__passeiolista--tamar:before {
   content: "🐢";
 }
+
+.lugares__passeiolista--aquario:before {
+  content: "🐟";
+}
